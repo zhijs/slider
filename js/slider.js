@@ -1,4 +1,4 @@
-var list=['风格一','风格二','风格三','风格四','风格五']
+var list=['图片一','图片二','图片三','图片四','图片五']
 var btn_pre=document.querySelector(".btn-pre");
 var btn_next=document.querySelector(".btn-next");
 var item_title=document.querySelector(".item-title");
