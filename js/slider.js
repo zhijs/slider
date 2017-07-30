@@ -26,7 +26,7 @@ for(let j=0;j<item.length;++j)
 
 setInterval(()=>{
 	setItem(ul,item_title,item,-500,-2500);
-},1500);
+},2500);
 function setItem(node,title,item,space,length)
 {
   
